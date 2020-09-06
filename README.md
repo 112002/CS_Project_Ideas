@@ -32,4 +32,12 @@ PC. Com-pu-ter! Practically that is the greatest upheaval that has ever occurred
 
 14. Raspberry Pi Robot
 
+15. Handwritten Digits Recognition using ML
+
+16. Computer Vision Based Smart Selfie
+
+17. Digital Signal Processing using Python
+
+18. Python for Engineers
+
 
