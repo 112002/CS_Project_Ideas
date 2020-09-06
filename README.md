@@ -82,3 +82,6 @@ If at all, you could never think of any solution or even any problem at all, the
 # IoT using Raspberry Pi:
 
 As the Internet of Things is becoming more dominant recently, the more skills are demanded in this field. In this computer science beginner project, you will get to develop an electronic device that could automatically send a signal when the temperature exceeds a certain limit. This is built using a DHT sensor and a Raspberry Pi Computer. The signals are sent as an email to the user. This computer science project will lead you to know more about the concepts and applications of IoT, Data analysis with cloud platform and Raspberry Pi development platform.
+
+# Machine Learning projects for beginners:
+Machine learning is becoming huge and the job opportunities are peaking up for engineers. This course will let you learn the basic concepts to advanced level of skills in Machine Learning. This leads you to build a practical understanding on the concepts of Machine Learning and eventually you will end up building various projects like Movie Recommendation system, Handwritten digits recognition, credit Card Fraud detection and New House Price Prediction.
