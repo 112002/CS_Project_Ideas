@@ -55,3 +55,9 @@ PC. Com-pu-ter! Practically that is the greatest upheaval that has ever occurred
 25. Blockchain for Engineers
 
 26. Home Automation System using IoT & Raspberry Pi
+
+# Where to start as a beginner?
+With so many questions inside the mind, and with a lot more extra information throughout the internet, it is difficult for a software engineer to dig out the right information for him/her.
+
+
+
