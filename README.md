@@ -40,4 +40,18 @@ PC. Com-pu-ter! Practically that is the greatest upheaval that has ever occurred
 
 18. Python for Engineers
 
+19. Python for Game Development
 
+20. Python for Web Development
+
+21. Automation with Python
+
+22. Python for Data Science
+
+23. Python for Image Processing
+
+24. Automatic Human Following Trolley
+
+25. Blockchain for Engineers
+
+26. Home Automation System using IoT & Raspberry Pi
