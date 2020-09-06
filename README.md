@@ -63,3 +63,4 @@ The evolution in the career is more important to move forward. So, the next phas
 Hence, as a beginner, start learning the codes and master the art to achieve big in this field.
 
 - What is the best programming language to learn first?
+Now, with that proper stages of a software engineer's life, you might be thinking which language would be easier to go with at the beginning. Fretting over the programming language to go on with would be a waste of time. Instead, I would suggest you focus on the basics and concepts that you would learn in any language. With this piece of advice, you would become a seasoned programmer.
