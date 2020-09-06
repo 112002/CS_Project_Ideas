@@ -64,3 +64,7 @@ Hence, as a beginner, start learning the codes and master the art to achieve big
 
 - What is the best programming language to learn first?
 Now, with that proper stages of a software engineer's life, you might be thinking which language would be easier to go with at the beginning. Fretting over the programming language to go on with would be a waste of time. Instead, I would suggest you focus on the basics and concepts that you would learn in any language. With this piece of advice, you would become a seasoned programmer. Also, you need not try to fund a "perfect" programming language to begin with. Because such a thing doesn't exist and it actually doesn't matter to an extent. Having said that, I can make a few suggestions that you could learn to understand the coding world.
+
+- <b>1. Python</b>
+
+The first language you can consider to learn is Python. With Python, you could even develop some significant projects in a very short amount of time. Even though it is a very high level of language, it is actually very easy to learn. This lets you write a few lines of code with a real program.
