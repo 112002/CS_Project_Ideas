@@ -68,3 +68,9 @@ Now, with that proper stages of a software engineer's life, you might be thinkin
 - <b>1. Python</b>
 
 The first language you can consider to learn is Python. With Python, you could even develop some significant projects in a very short amount of time. Even though it is a very high level of language, it is actually very easy to learn. This lets you write a few lines of code with a real program.
+
+- <b>2. JAVA</b>
+
+This language could make you learn different programming concepts that do not exist in Python. You will definitely come to know what I mean when you are done learning both the languages. While JAVA is a statically-typed language, Python is a dynamically-typed one. Learning both the languages would definitely gain you more understanding of any coding and this builds you the basic programming concepts in your mind.
+
+
