@@ -72,5 +72,5 @@ The first language you can consider to learn is Python. With Python, you could e
 - <b>2. JAVA</b>
 
 This language could make you learn different programming concepts that do not exist in Python. You will definitely come to know what I mean when you are done learning both the languages. While JAVA is a statically-typed language, Python is a dynamically-typed one. Learning both the languages would definitely gain you more understanding of any coding and this builds you the basic programming concepts in your mind.
-
+These languages are in high demand in every company which would be employable and form the basic foundation to proceed further in the future.
 
